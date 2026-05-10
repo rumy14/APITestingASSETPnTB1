@@ -1,4 +1,7 @@
-login
-cart
-checkout
-shorting
+Auth - Create Token
+Get BookingID
+GetBooking
+Create Booking
+Update Booking
+Partial Update Booking 
+Delete Booking
